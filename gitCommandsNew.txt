@@ -34,3 +34,6 @@ testing git pull from remote repository
 
 git checkout * commit id - entire 40 characters* 
 and then do git checkout -b * branch name ex: lite-version*
+
+git stash ( it basically saves your changes in a branch and allows you to switch 
+to other branch without commiting current change)
