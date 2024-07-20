@@ -3,3 +3,7 @@ Get the user data
  git tag -a v1.0 -m "1st release" ( to give tag or version number)
 
  git push origin v1.0 ( to push version/tag to remote repo)
+
+git checkout -b feature1 ( to create a branch if it does not exist)
+ git checkout feature1 ( to check out/switch to other branch)
+ git switch feature1 ( new keyword for checkout)
