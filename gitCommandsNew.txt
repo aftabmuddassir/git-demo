@@ -31,3 +31,5 @@ git merge --abort ( to abort merge)
 git pull origin main ( to pull from remote repository)
 
 testing git pull from remote repository
+
+git checkout * commit id - entire 40 characters*
