@@ -32,4 +32,5 @@ git pull origin main ( to pull from remote repository)
 
 testing git pull from remote repository
 
-git checkout * commit id - entire 40 characters*
+git checkout * commit id - entire 40 characters* 
+and then do git checkout -b * branch name ex: lite-version*
