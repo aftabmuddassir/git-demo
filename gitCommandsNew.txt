@@ -29,3 +29,5 @@ git rebase * branch name * ( to have a single line in graph instead of different
 git merge --abort ( to abort merge)
 
 git pull origin main ( to pull from remote repository)
+
+testing git pull from remote repository
