@@ -37,3 +37,6 @@ and then do git checkout -b * branch name ex: lite-version*
 
 git stash ( it basically saves your changes in a branch and allows you to switch 
 to other branch without commiting current change)
+
+git stash list ( give list of stash)
+git stash apply ( to apply stash)
