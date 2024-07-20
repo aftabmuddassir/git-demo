@@ -27,3 +27,5 @@ git add . ( . means all the files)
 git merge * branch name* ( ex: be in main branch and merge feature1 branch)
 git rebase * branch name * ( to have a single line in graph instead of different lines for each branch)
 git merge --abort ( to abort merge)
+
+git pull origin main ( to pull from remote repository)
