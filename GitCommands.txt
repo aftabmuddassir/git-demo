@@ -1,0 +1,24 @@
+Get the user data
+
+git status - to check status
+git add *file name and extension*
+git commit -m * commit message*
+git commit -a -m * commit without staging(saving) *
+git diff ( to find differenece after making change and saving)
+git diff --staged
+git add . ( to add multiple files at once)
+git rm --cached (file name-creds.txt) ( to remove the file from git do this 
+and right click on file and delete and then commit again)
+
+ git tag -a v1.0 -m "1st release" ( to give tag or version number)
+
+ git push origin v1.0 ( to push version/tag to remote repo)
+
+* in main*
+git checkout -b feature1 ( to create a branch if it does not exist)
+ git checkout feature1 ( to check out/switch to other branch)
+ git switch feature1 ( new keyword for checkout)
+ 
+ git branch --all ( will give remote as well as local repos)
+
+ git branch -d *branchName* ( to delete a branch with its name)
